@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="google-api-services-coordinate-v1-rev53-1.20.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-coordinate/v1-rev53-1.20.0/8412836680b5d14620e6b62721d1256f1d93cff/google-api-services-coordinate-v1-rev53-1.20.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-coordinate/v1-rev53-1.20.0/b6cc0f7d9d099b609186938f6a1ced9022a69f42/google-api-services-coordinate-v1-rev53-1.20.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="content">This is Title</string>
+    <string name="show">Show</string>
+    <string name="hide">hide</string>
+    <string name="slide">Slide</string>
+</resources>

@@ -1,0 +1,13 @@
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval"
+    >
+    <!-- The fill color -->
+    <solid android:color="#b2dfdb" />
+    <!-- Just to add a border -->
+    <stroke
+        android:color="#9ec1ed"
+        android:width="2dp"
+        />
+
+</shape>
