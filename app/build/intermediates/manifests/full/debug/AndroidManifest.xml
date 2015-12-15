@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.dh.appmodule1"
+    package="com.kangladevelopers.appmodule1"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -19,7 +19,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/MyMaterialTheme" >
-        <activity android:name="com.dh.appmodule1.MainActivity" >
+        <activity android:name="com.kangladevelopers.appmodule1.ui.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -27,7 +27,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.dh.appmodule1.SettingsActivity"
+            android:name="com.kangladevelopers.appmodule1.ui.SettingsActivity"
             android:label="@string/title_activity_settings"
             android:theme="@style/AppTheme" />
         <activity android:name="com.soundcloud.android.crop.CropImageActivity" />

@@ -24,11 +24,11 @@
 
     <fragment
         android:id="@+id/fragment_navigation_drawer"
-        android:name="com.dh.fragment.FragmentDrawer"
+        android:name="com.kangladevelopers.appmodule1.fragment.FragmentDrawer"
         android:layout_width="@dimen/nav_width"
         android:layout_height="match_parent"
         android:layout_gravity="start"
         app:layout="@layout/fragment_navigation_drawer"
         tools:layout="@layout/fragment_navigation_drawer" />
 
-</android.support.v4.widget.DrawerLayout><!-- From: file:/G:/Android_WS_github/AppModule1/app/src/main/res/layout/activity_main.xml -->
+</android.support.v4.widget.DrawerLayout><!-- From: file:/G:/ANDROID_WORKSPACE/AppModule2/app/src/main/res/layout/activity_main.xml -->

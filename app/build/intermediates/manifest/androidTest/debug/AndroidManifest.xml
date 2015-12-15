@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.dh.appmodule1.test">
+    package="com.kangladevelopers.appmodule1.test">
 
     <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="22" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.dh.appmodule1"
+                     android:targetPackage="com.kangladevelopers.appmodule1"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.dh.appmodule1"/>
+                     android:label="Tests for com.kangladevelopers.appmodule1"/>
 </manifest>

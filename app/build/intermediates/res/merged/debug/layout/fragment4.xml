@@ -4,7 +4,7 @@
     android:layout_height="match_parent">
 
 
-    <com.dh.widget.DoubleImageView
+    <appmodule1.com.widget.DoubleImageView
         android:id="@+id/view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -14,4 +14,4 @@
         android:text="2:2"
         android:textColor="#000000"/>
 
-</RelativeLayout><!-- From: file:/G:/Android_WS_github/AppModule1/app/src/main/res/layout/fragment4.xml -->
+</RelativeLayout><!-- From: file:/G:/ANDROID_WORKSPACE/AppModule2/app/src/main/res/layout/fragment4.xml -->

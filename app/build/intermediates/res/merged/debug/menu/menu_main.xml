@@ -2,7 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.dh.appmodule1.MainActivity">
+    tools:context="appmodule1.com.ui.MainActivity">
     <item
         android:id="@+id/action_search"
         android:orderInCategory="100"
@@ -16,4 +16,4 @@
         android:title="@string/action_settings"
         app:showAsAction="never" />
 
-</menu><!-- From: file:/G:/Android_WS_github/AppModule1/app/src/main/res/menu/menu_main.xml -->
+</menu><!-- From: file:/G:/ANDROID_WORKSPACE/AppModule2/app/src/main/res/menu/menu_main.xml -->
