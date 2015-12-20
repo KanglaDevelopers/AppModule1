@@ -14,7 +14,6 @@ import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 import android.widget.Toast;
-
 import com.kangladevelopers.appmodule1.R;
 import com.kangladevelopers.appmodule1.fragment.Fragment2;
 import com.kangladevelopers.appmodule1.fragment.Fragment3;
@@ -26,10 +25,9 @@ import com.soundcloud.android.crop.Crop;
 import java.io.File;
 
 
-
 public class MainActivity extends AppCompatActivity implements FragmentDrawer.FragmentDrawerListener {
 
-   // private Toolbar toolbar;
+    // private Toolbar toolbar;
     private FragmentDrawer fragmentDrawer;
     private FrameLayout frameLayout;
     private FragmentManager fragmentManager;
@@ -46,10 +44,10 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-       // toolbar = (Toolbar) findViewById(R.id.toolbar);
+        // toolbar = (Toolbar) findViewById(R.id.toolbar);
         frameLayout = (FrameLayout) findViewById(R.id.container_body);
         //setSupportActionBar(toolbar);
-       // getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        // getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         fragmentDrawer = (FragmentDrawer) getSupportFragmentManager().findFragmentById(R.id.fragment_navigation_drawer);
         fragmentDrawer.setUp(R.id.fragment_navigation_drawer, (DrawerLayout) findViewById(R.id.drawer_layout));
         fragmentDrawer.setDrawerListener(this);
@@ -105,7 +103,7 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
                     fragmentTransaction.remove(CURRENT_FRAGMENT);
                     fragmentTransaction.add(R.id.container_body, fragment2, "F2");
                     fragmentTransaction.commit();
-                    CURRENT_FRAGMENT =fragment2;
+                    CURRENT_FRAGMENT = fragment2;
 
                 }
                 break;
@@ -114,7 +112,7 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
                     fragmentTransaction.remove(CURRENT_FRAGMENT);
                     fragmentTransaction.add(R.id.container_body, fragment3, "F3");
                     fragmentTransaction.commit();
-                    CURRENT_FRAGMENT =fragment3;
+                    CURRENT_FRAGMENT = fragment3;
 
                 }
                 break;
@@ -124,7 +122,7 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
                     fragmentTransaction.remove(CURRENT_FRAGMENT);
                     fragmentTransaction.add(R.id.container_body, fragment4, "F4");
                     fragmentTransaction.commit();
-                    CURRENT_FRAGMENT =fragment4;
+                    CURRENT_FRAGMENT = fragment4;
 
                 }
 
@@ -138,17 +136,16 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-       super.onActivityResult(requestCode, resultCode, data);
+        super.onActivityResult(requestCode, resultCode, data);
         // 196729
         try {
-            if(requestCode ==Crop.REQUEST_CROP){
-                handleCrop(resultCode,data);
+            if (requestCode == Crop.REQUEST_CROP) {
+                handleCrop(resultCode, data);
                 return;
             }
             biginCrop(data.getData());
 
-        }
-        catch (Exception e){
+        } catch (Exception e) {
             e.printStackTrace();
         }
 
@@ -185,17 +182,18 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
         }*/
     }
 
-    public void biginCrop(Uri source){
+    public void biginCrop(Uri source) {
         // creating the destination folder in the cache directory of the application
-        Uri destination= Uri.fromFile(new File(getCacheDir(),"croppedImages"));
+        Uri destination = Uri.fromFile(new File(getCacheDir(), "croppedImages"));
         // starting the crop activity to perform cropping
-        Crop.of(source,destination).asSquare().start(this);
+        Crop.of(source, destination).asSquare().start(this);
 
 
     }
-    public void handleCrop(int resultCode,Intent result){
 
-        if(resultCode==RESULT_OK){
+    public void handleCrop(int resultCode, Intent result) {
+
+        if (resultCode == RESULT_OK) {
             FragmentDrawer.getProfileImage().setImageURI(Crop.getOutput(result));
 
         }

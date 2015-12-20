@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/G:/ANDROID_WORKSPACE/AppModule2/app/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/1.0.1/res/values-v21/values-v21.xml -->
+    <!-- From: file:/C:/Users/DELL%20PC/AndroidStudioProjects/AppModule1/app/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/1.0.1/res/values-v21/values-v21.xml -->
     <eat-comment/>
     <color name="crop__selector_pressed">#aaaaaa</color>
-    <!-- From: file:/G:/ANDROID_WORKSPACE/AppModule2/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/values-v21/values-v21.xml -->
+    <!-- From: file:/C:/Users/DELL%20PC/AndroidStudioProjects/AppModule1/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/values-v21/values-v21.xml -->
     <eat-comment/>
     <dimen name="design_navigation_padding_top_default">24dp</dimen>
-    <!-- From: file:/G:/ANDROID_WORKSPACE/AppModule2/app/src/main/res/values-v21/strings.xml -->
+    <!-- From: file:/C:/Users/DELL%20PC/AndroidStudioProjects/AppModule1/app/src/main/res/values-v21/strings.xml -->
     <eat-comment/>
     <string name="content">This is Title</string>
     <string name="hide">hide</string>
     <string name="show">Show</string>
     <string name="slide">Slide</string>
-    <!-- From: file:/G:/ANDROID_WORKSPACE/AppModule2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-v21/values-v21.xml -->
+    <!-- From: file:/C:/Users/DELL%20PC/AndroidStudioProjects/AppModule1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-v21/values-v21.xml -->
     <eat-comment/>
     <style name="Base.TextAppearance.AppCompat" parent="android:TextAppearance.Material"/>
     <style name="Base.TextAppearance.AppCompat.Body1" parent="android:TextAppearance.Material.Body1"/>
@@ -228,7 +228,7 @@
     <style name="Base.Widget.AppCompat.TextView.SpinnerItem" parent="android:Widget.Material.TextView.SpinnerItem"/>
     <style name="Base.Widget.AppCompat.Toolbar.Button.Navigation" parent="android:Widget.Material.Toolbar.Button.Navigation">
     </style>
-    <!-- From: file:/G:/ANDROID_WORKSPACE/AppModule2/app/src/main/res/values-v21/styles.xml -->
+    <!-- From: file:/C:/Users/DELL%20PC/AndroidStudioProjects/AppModule1/app/src/main/res/values-v21/styles.xml -->
     <eat-comment/>
     <style name="MyMaterialTheme" parent="MyMaterialTheme.Base">
         <item name="android:windowContentTransitions">true</item>
@@ -237,7 +237,7 @@
         <item name="android:windowSharedElementEnterTransition">@android:transition/move</item>
         <item name="android:windowSharedElementExitTransition">@android:transition/move</item>
     </style>
-    <!-- From: file:/G:/ANDROID_WORKSPACE/AppModule2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-v21/values-v21.xml -->
+    <!-- From: file:/C:/Users/DELL%20PC/AndroidStudioProjects/AppModule1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-v21/values-v21.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="android:Theme.Material">
         <item name="android:windowNoTitle">true</item>
@@ -265,7 +265,7 @@
     </style>
     <style name="Platform.ThemeOverlay.AppCompat.Dark"/>
     <style name="Platform.ThemeOverlay.AppCompat.Light"/>
-    <!-- From: file:/G:/ANDROID_WORKSPACE/AppModule2/app/src/main/res/values-v21/styles.xml -->
+    <!-- From: file:/C:/Users/DELL%20PC/AndroidStudioProjects/AppModule1/app/src/main/res/values-v21/styles.xml -->
     <eat-comment/>
     <style name="Theme.Transparent" parent="Theme.AppCompat.Light.Dialog">
         <item name="android:windowIsTranslucent">false</item>

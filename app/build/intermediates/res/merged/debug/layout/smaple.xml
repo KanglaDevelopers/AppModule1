@@ -23,4 +23,4 @@
         android:layout_below="@+id/textView"
         android:layout_alignRight="@+id/textView"
         android:layout_alignEnd="@+id/textView" />
-</RelativeLayout><!-- From: file:/G:/ANDROID_WORKSPACE/AppModule2/app/src/main/res/layout/smaple.xml -->
+</RelativeLayout><!-- From: file:/C:/Users/DELL%20PC/AndroidStudioProjects/AppModule1/app/src/main/res/layout/smaple.xml -->

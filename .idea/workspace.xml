@@ -10,108 +10,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f61fc19-d72d-4e68-a99e-57f3d5f34ab3" name="Default" comment="Changes Package Names">
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\AppModule1.iml" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\generated\source\buildConfig\androidTest\debug\com\appmodule1\ui\test\BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\generated\source\buildConfig\debug\com\appmodule1\ui\BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\generated\source\r\debug\appmodule1\sothree\slidinguppanel\library\R.java" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\generated\source\r\debug\appmodule1\soundcloud\android\crop\R.java" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\generated\source\r\debug\com\appmodule1\ui\R.java" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\androidTest\debug\com\dh\appmodule1\ApplicationTest.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\androidTest\debug\com\dh\appmodule1\test\BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\adapter\CardViewAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\adapter\CardViewAdapter$MyViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\adapter\CardViewAdapter$RecyclerViewListener.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\adapter\CardViewAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\adapter\NavigationDrawerAdapter$MyViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\adapter\NavigationDrawerAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\adapter\SimpleRecyclerAdapter$MyViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\adapter\SimpleRecyclerAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\adapter\ViewPagerAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\AppCompatPreferenceActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\R$array.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\R$bool.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\R$mipmap.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\R$xml.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\R.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\SettingsActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\SettingsActivity$DataSyncPreferenceFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\SettingsActivity$GeneralPreferenceFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\SettingsActivity$NotificationPreferenceFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\appmodule1\SettingsActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\DummyFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\Fragment2.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\Fragment3$1.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\Fragment3$RecyclerItemClickListener$1.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\Fragment3$RecyclerItemClickListener$OnItemClickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\Fragment3$RecyclerItemClickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\Fragment3.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\Fragment4.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\FragmentDrawer$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\FragmentDrawer$1.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\FragmentDrawer$2.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\FragmentDrawer$3.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\FragmentDrawer$4.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\FragmentDrawer$5.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\FragmentDrawer$6.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\FragmentDrawer$ClickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\FragmentDrawer$FragmentDrawerListener.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\FragmentDrawer$RecyclerTouchListener$1.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\FragmentDrawer$RecyclerTouchListener.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\FragmentDrawer.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\HomeFragment$1.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\HomeFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\SelectorDialogFragment$1.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\fragment\SelectorDialogFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\helper\ItemTouchHelperAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\helper\ItemTouchHelperViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\helper\OnStartDragListener.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\helper\SimpleItemTouchHelperCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\model\NavDrawerItem.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\model\ViewCardModel.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\classes\debug\com\dh\widget\DoubleImageView.class" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\classes-12820e6e2af203d08bcbe1a385e9a8c5fcf0e91d.jar" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\classes-2cc228e85089c043d49fd8fea31cbeb316ddc28f.jar" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\classes-348d4441ab4ebf8f06ab6a468b041cc9bb43b780.jar" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\classes-38d39fc486ff01a16f14280ecfa4e4e08191bc06.jar" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\classes-54893919bebc0e87ad5a8299adc4c91e60833a90.jar" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\classes-aa517012e166e2f670ecc73ce72aa94fc4b6193f.jar" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\classes-e5be13cf7d78d79e79041ea6381bc54b4bfb5537.jar" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-f526650929700b486acd57097efeb11d6c2a7664.jar" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\androidTest\java\com\dh\appmodule1\ApplicationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\test\java\com\dh\appmodule1\ExampleUnitTest.java" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppModule1.iml" />
+      <change type="DELETED" beforePath="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\generated\source\buildConfig\androidTest\debug\com\dh\appmodule1\test\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\generated\source\buildConfig\debug\com\dh\appmodule1\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\generated\source\r\debug\com\dh\appmodule1\R.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\google-api-client-1.20.0-70e90fa59fc2669bb87f80e1c8736458a77a00b2.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\google-api-services-coordinate-v1-rev53-1.20.0-e4dbf199febefc557d99dbef2d579ba31d78f4f6.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\google-http-client-1.20.0-ba88a9ad66cd69c530eae57f69998bb00e55f95a.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.20.0-b21577a9d5af46192d40e3496f272e80fa0779e8.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.20.0-21e0dda57b090e4450225eb0dfe4e8a3890417d1.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\guava-jdk5-13.0-3c7dac0adf57a343a1f1d2bf7c9d1f6df6ae288f.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-0dfeacc35cd5cafb37dcb53d59028a68cdc81cd3.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-787f6a96f05dea9f5e80d5d1f2770ed29276db7f.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\library-2.4.0-2b89e5b92c36006fe75b071417c0b7a77f5ca843.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-98a585d4353c52002682cb58100ee6c7fa2e58ce.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/cardview/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/cardview/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/sothree/slidinguppanel/library/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/sothree/slidinguppanel/library/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/soundcloud/android/crop/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/soundcloud/android/crop/R.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-api-client-1.20.0-70e90fa59fc2669bb87f80e1c8736458a77a00b2.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-api-client-1.20.0-70e90fa59fc2669bb87f80e1c8736458a77a00b2.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-api-services-coordinate-v1-rev53-1.20.0-e4dbf199febefc557d99dbef2d579ba31d78f4f6.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-api-services-coordinate-v1-rev53-1.20.0-e4dbf199febefc557d99dbef2d579ba31d78f4f6.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-http-client-1.20.0-ba88a9ad66cd69c530eae57f69998bb00e55f95a.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-http-client-1.20.0-ba88a9ad66cd69c530eae57f69998bb00e55f95a.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.20.0-b21577a9d5af46192d40e3496f272e80fa0779e8.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.20.0-b21577a9d5af46192d40e3496f272e80fa0779e8.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.20.0-21e0dda57b090e4450225eb0dfe4e8a3890417d1.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.20.0-21e0dda57b090e4450225eb0dfe4e8a3890417d1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/guava-jdk5-13.0-3c7dac0adf57a343a1f1d2bf7c9d1f6df6ae288f.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/guava-jdk5-13.0-3c7dac0adf57a343a1f1d2bf7c9d1f6df6ae288f.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3-0dfeacc35cd5cafb37dcb53d59028a68cdc81cd3.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3-0dfeacc35cd5cafb37dcb53d59028a68cdc81cd3.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9-787f6a96f05dea9f5e80d5d1f2770ed29276db7f.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9-787f6a96f05dea9f5e80d5d1f2770ed29276db7f.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/library-2.4.0-2b89e5b92c36006fe75b071417c0b7a77f5ca843.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/library-2.4.0-2b89e5b92c36006fe75b071417c0b7a77f5ca843.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-98a585d4353c52002682cb58100ee6c7fa2e58ce.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-98a585d4353c52002682cb58100ee6c7fa2e58ce.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/aapt/AndroidManifest.xml" />
@@ -128,7 +55,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/1.0.1/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/1.0.1/aapt/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/fragment/HomeFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/fragment/HomeFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/ui/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/ui/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/aidl/android/support/v4/media/MediaMetadataCompat.aidl" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/aidl/android/support/v4/media/MediaMetadataCompat.aidl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/aidl/android/support/v4/media/session/MediaSessionCompat.aidl" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/aidl/android/support/v4/media/session/MediaSessionCompat.aidl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/aidl/android/support/v4/media/session/ParcelableVolumeInfo.aidl" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/aidl/android/support/v4/media/session/ParcelableVolumeInfo.aidl" />
@@ -137,6 +65,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/cardview/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/cardview/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/sothree/slidinguppanel/library/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/sothree/slidinguppanel/library/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/soundcloud/android/crop/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/soundcloud/android/crop/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/R.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/R.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/R.txt" />
@@ -296,13 +226,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/3.2.0/res/drawable/above_shadow.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/3.2.0/res/drawable/above_shadow.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/above_shadow.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/above_shadow.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/android_crop_1_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/android_crop_1_0_1.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_1_0.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/3.2.0/res/drawable/below_shadow.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/3.2.0/res/drawable/below_shadow.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/below_shadow.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/below_shadow.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/bubble_oval_background.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/bubble_oval_background.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/cardview_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/cardview_item.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/cardview_v7_23_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/cardview_v7_23_1_0.xml" />
@@ -316,6 +245,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-v21/crop__selectable_background.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-v21/crop__selectable_background.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/1.0.1/res/drawable/crop__texture.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/1.0.1/res/drawable/crop__texture.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/crop__texture.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/crop__texture.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/design_23_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/design_23_1_0.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/drawable/design_fab_background.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/drawable/design_fab_background.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/anim/design_fab_in.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/anim/design_fab_in.xml" />
@@ -354,19 +284,18 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/dummy_fragment.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/dummy_fragment.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment4.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment4.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment4.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_fragment2.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_fragment2.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_fragment3.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_fragment3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_fragment3.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_fragment3.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_home.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_navigation_drawer.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_navigation_drawer.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-v21/ic_info_black_24dp.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-v21/ic_info_black_24dp.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-v21/ic_notifications_black_24dp.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-v21/ic_notifications_black_24dp.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-v21/ic_sync_black_24dp.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-v21/ic_sync_black_24dp.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/library_3_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/library_3_2_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu/menu_main.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu/menu_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResourcesandroidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResourcesandroidTest/debug/merger.xml" />
@@ -393,7 +322,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/xml/pref_data_sync.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/xml/pref_data_sync.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/xml/pref_general.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/xml/pref_general.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/xml/pref_headers.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/xml/pref_headers.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/xml/pref_headers.xml" afterPath="$PROJECT_DIR$/app/src/main/res/xml/pref_headers.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/xml/pref_notification.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/xml/pref_notification.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/proguard.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/proguard.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/public.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/public.txt" />
@@ -408,6 +336,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/selector_dialog_fragment.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/selector_dialog_fragment.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/simple_adapter_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/simple_adapter_item.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/smaple.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/smaple.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_1_0.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/support_simple_spinner_dropdown_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/support_simple_spinner_dropdown_item.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_0.xml" />
@@ -649,27 +578,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/1.0.1/res/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/1.0.1/res/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\main\java\com\dh\adapter\CardViewAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/adapter/CardViewAdapter.java" />
-      <change type="MOVED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\main\java\com\dh\adapter\NavigationDrawerAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/adapter/NavigationDrawerAdapter.java" />
-      <change type="MOVED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\main\java\com\dh\adapter\SimpleRecyclerAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/adapter/SimpleRecyclerAdapter.java" />
-      <change type="MOVED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\main\java\com\dh\adapter\ViewPagerAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/adapter/ViewPagerAdapter.java" />
-      <change type="MOVED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\main\java\com\dh\appmodule1\AppCompatPreferenceActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/ui/AppCompatPreferenceActivity.java" />
-      <change type="MOVED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\main\java\com\dh\appmodule1\MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/ui/MainActivity.java" />
-      <change type="MOVED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\main\java\com\dh\appmodule1\SettingsActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/ui/SettingsActivity.java" />
-      <change type="MOVED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\main\java\com\dh\fragment\DummyFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/fragment/DummyFragment.java" />
-      <change type="MOVED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\main\java\com\dh\fragment\Fragment2.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/fragment/Fragment2.java" />
-      <change type="MOVED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\main\java\com\dh\fragment\Fragment3.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/fragment/Fragment3.java" />
-      <change type="MOVED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\main\java\com\dh\fragment\Fragment4.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/fragment/Fragment4.java" />
-      <change type="MOVED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\main\java\com\dh\fragment\FragmentDrawer.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/fragment/FragmentDrawer.java" />
-      <change type="MOVED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\main\java\com\dh\fragment\HomeFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/fragment/HomeFragment.java" />
-      <change type="MOVED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\main\java\com\dh\fragment\SelectorDialogFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/fragment/SelectorDialogFragment.java" />
-      <change type="MOVED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\main\java\com\dh\helper\ItemTouchHelperAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/helper/ItemTouchHelperAdapter.java" />
-      <change type="MOVED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\main\java\com\dh\helper\ItemTouchHelperViewHolder.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/helper/ItemTouchHelperViewHolder.java" />
-      <change type="MOVED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\main\java\com\dh\helper\OnStartDragListener.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/helper/OnStartDragListener.java" />
-      <change type="MOVED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\main\java\com\dh\helper\SimpleItemTouchHelperCallback.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/helper/SimpleItemTouchHelperCallback.java" />
-      <change type="MOVED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\main\java\com\dh\model\NavDrawerItem.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/model/NavDrawerItem.java" />
-      <change type="MOVED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\main\java\com\dh\model\ViewCardModel.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/model/ViewCardModel.java" />
-      <change type="MOVED" beforePath="G:\ANDROID_WORKSPACE\AppModule2\app\src\main\java\com\dh\widget\DoubleImageView.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/widget/DoubleImageView.java" />
     </list>
     <ignored path="AppModule1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -697,47 +605,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ViewCardModel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/model/ViewCardModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="e#434#435#0" expanded="false" />
-                <element signature="e#467#468#0" expanded="false" />
-                <element signature="e#519#520#0" expanded="false" />
-                <element signature="e#558#559#0" expanded="false" />
-                <element signature="e#590#591#0" expanded="false" />
-                <element signature="e#618#619#0" expanded="false" />
-                <element signature="e#660#661#0" expanded="false" />
-                <element signature="e#694#695#0" expanded="false" />
-                <element signature="e#732#733#0" expanded="false" />
-                <element signature="e#766#767#0" expanded="false" />
-                <element signature="e#820#821#0" expanded="false" />
-                <element signature="e#866#867#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AppCompatPreferenceActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/ui/AppCompatPreferenceActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1160#1161#0" expanded="false" />
+                <element signature="e#1218#1219#0" expanded="false" />
+                <element signature="e#1401#1402#0" expanded="false" />
+                <element signature="e#1455#1456#0" expanded="false" />
+                <element signature="e#1647#1648#0" expanded="false" />
+                <element signature="e#1697#1698#0" expanded="false" />
+                <element signature="e#2748#2749#0" expanded="false" />
+                <element signature="e#2801#2802#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/ui/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35695538">
-              <caret line="119" column="22" selection-start-line="119" selection-start-column="22" selection-end-line="119" selection-end-column="22" />
+            <state vertical-scroll-proportion="-2.4482758">
+              <caret line="177" column="13" selection-start-line="177" selection-start-column="13" selection-end-line="177" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeFragment.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/fragment/HomeFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.12164579">
+              <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -747,13 +652,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#906#907#0" expanded="false" />
-                <element signature="e#941#942#0" expanded="false" />
-                <element signature="e#1008#1009#0" expanded="false" />
-                <element signature="e#1047#1048#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -773,10 +672,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding>
-                <element signature="e#1338#1339#0" expanded="false" />
-                <element signature="e#1372#1373#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -787,6 +683,7 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="72" column="84" selection-start-line="72" selection-start-column="84" selection-end-line="72" selection-end-column="84" />
               <folding>
+                <element signature="imports" expanded="false" />
                 <element signature="e#886#887#0" expanded="false" />
                 <element signature="e#920#921#0" expanded="false" />
               </folding>
@@ -812,7 +709,8 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#953#954#0" expanded="false" />
+                <element signature="e#1001#1002#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -825,7 +723,6 @@
               <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#4109#4124#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -842,7 +739,7 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="AppModule2" />
+              <option name="name" value="AppModule1" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
@@ -853,7 +750,7 @@
                 <option name="path" value="$PROJECT_DIR$/app" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="AppModule2" />
+                <option name="name" value="AppModule1" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
@@ -871,17 +768,17 @@
                 <option name="name" value="clean" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'AppModule2'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'AppModule1'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'AppModule2'." />
+                <option name="description" value="Displays all dependencies declared in root project 'AppModule1'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'AppModule2'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'AppModule1'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -896,22 +793,22 @@
                 <option name="name" value="init" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'AppModule2'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'AppModule1'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'AppModule2'." />
+                <option name="description" value="Displays the sub-projects of root project 'AppModule1'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'AppModule2'." />
+                <option name="description" value="Displays the properties of root project 'AppModule1'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'AppModule2' (some of the displayed tasks may belong to subprojects)." />
+                <option name="description" value="Displays the tasks runnable from root project 'AppModule1' (some of the displayed tasks may belong to subprojects)." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -1998,6 +1895,7 @@
       <map>
         <entry key="$PROJECT_DIR$/../simpleaudioplayer2" value="4347871076100" />
         <entry key="$PROJECT_DIR$/../simpleaudioplayer3" value="4347872361727" />
+        <entry key="C:\Users\DELL PC\AndroidStudioProjects\AppModule1" value="4351752215261" />
         <entry key="G:\ANDROID_WORKSPACE\AppModule2" value="4350078387804" />
         <entry key="G:\Android_WS_github\AppModule1" value="4340463529141" />
       </map>
@@ -2180,11 +2078,11 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sothree.slidinguppanel/library/3.2.0/f9f71fda8f58e1cf3d85824fb2fd8e6e4b7e6298/library-3.2.0.aar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soundcloud.android/android-crop/1.0.1/d2f63653147495c67a6cc00beabd2a42b09430be/android-crop-1.0.1.aar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-coordinate/v1-rev53-1.20.0/8412836680b5d14620e6b62721d1256f1d93cff/google-api-services-coordinate-v1-rev53-1.20.0.jar" />
-                            <option value="E:/Wealth/Android/sdk/extras/android/m2repository/com/android/support/design/23.1.0/design-23.1.0.aar" />
-                            <option value="E:/Wealth/Android/sdk/extras/android/m2repository/com/android/support/cardview-v7/23.1.0/cardview-v7-23.1.0.aar" />
-                            <option value="E:/Wealth/Android/sdk/extras/android/m2repository/com/android/support/appcompat-v7/23.1.0/appcompat-v7-23.1.0.aar" />
-                            <option value="E:/Wealth/Android/sdk/extras/android/m2repository/com/android/support/recyclerview-v7/23.1.0/recyclerview-v7-23.1.0.aar" />
-                            <option value="E:/Wealth/Android/sdk/extras/android/m2repository/com/android/support/support-v4/23.1.0/support-v4-23.1.0.aar" />
+                            <option value="C:/Android/sdk/extras/android/m2repository/com/android/support/design/23.1.0/design-23.1.0.aar" />
+                            <option value="C:/Android/sdk/extras/android/m2repository/com/android/support/cardview-v7/23.1.0/cardview-v7-23.1.0.aar" />
+                            <option value="C:/Android/sdk/extras/android/m2repository/com/android/support/appcompat-v7/23.1.0/appcompat-v7-23.1.0.aar" />
+                            <option value="C:/Android/sdk/extras/android/m2repository/com/android/support/recyclerview-v7/23.1.0/recyclerview-v7-23.1.0.aar" />
+                            <option value="C:/Android/sdk/extras/android/m2repository/com/android/support/support-v4/23.1.0/support-v4-23.1.0.aar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.20.0/d3e66209ae9e749b2d6833761e7885f60f285564/google-api-client-1.20.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.20.0/1d086ac5756475ddf451af2e2df6e288d18608ca/google-oauth-client-1.20.0.jar" />
@@ -2197,7 +2095,7 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.0.1/e813b8722c387b22e1adccf7914729db09bcb4a9/httpcore-4.0.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.1/5043bfebc3db072ed80fbd362e7caf00e885d8ae/commons-logging-1.1.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.3/fd32786786e2adb664d5ecc965da47629dca14ba/commons-codec-1.3.jar" />
-                            <option value="E:/Wealth/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar" />
+                            <option value="C:/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$/app" />
@@ -2351,7 +2249,6 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/adapter/SimpleRecyclerAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/ui/SettingsActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/widget/DoubleImageView.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/fragment/HomeFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/fragment/Fragment2.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/fragment/Fragment3.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/fragment/Fragment4.java" />
@@ -2361,6 +2258,7 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/fragment/FragmentDrawer.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/fragment/SelectorDialogFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/ui/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/fragment/HomeFragment.java" />
       </list>
     </option>
   </component>
@@ -2396,34 +2294,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppModule1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppModule1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appmodule1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -2488,6 +2358,155 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppModule1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppModule1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppModule1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppModule1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppModule1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppModule1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppModule1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppModule1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppModule1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appmodule1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppModule1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppModule1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appmodule1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fragment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppModule1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppModule1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appmodule1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2508,24 +2527,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppModule1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="recentsLimit" value="5" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/java" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="c142c2e4" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="AVD_for_Nexus_S" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_23_x86" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
@@ -2721,68 +2729,70 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39901477" sideWeight="0.49707174" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39901477" sideWeight="0.50292826" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32840723" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270869" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39901477" sideWeight="0.50292826" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24158126" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270869" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24130106" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39901477" sideWeight="0.49707174" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39901477" sideWeight="0.50292826" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24158126" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39901477" sideWeight="0.49707174" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39901477" sideWeight="0.50292826" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3270869" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39901477" sideWeight="0.49707174" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270869" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24130106" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2806,7 +2816,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/ui/MainActivity.java</url>
-          <line>90</line>
+          <line>88</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -2826,13 +2836,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#906#907#0" expanded="false" />
-            <element signature="e#941#942#0" expanded="false" />
-            <element signature="e#1008#1009#0" expanded="false" />
-            <element signature="e#1047#1048#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2848,10 +2852,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="e#1338#1339#0" expanded="false" />
-            <element signature="e#1372#1373#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2860,6 +2861,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="72" column="84" selection-start-line="72" selection-start-column="84" selection-end-line="72" selection-end-column="84" />
           <folding>
+            <element signature="imports" expanded="false" />
             <element signature="e#886#887#0" expanded="false" />
             <element signature="e#920#921#0" expanded="false" />
           </folding>
@@ -2881,7 +2883,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#953#954#0" expanded="false" />
+            <element signature="e#1001#1002#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2892,7 +2895,6 @@
           <caret line="48" column="70" selection-start-line="48" selection-start-column="70" selection-end-line="48" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4109#4124#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3096,16 +3098,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/fragment/HomeFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/fragment/Fragment2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3140,9 +3132,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="107" column="78" selection-start-line="107" selection-start-column="78" selection-end-line="107" selection-end-column="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3185,7 +3174,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3229,10 +3217,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="e#1338#1339#0" expanded="false" />
-            <element signature="e#1372#1373#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3241,6 +3226,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="72" column="84" selection-start-line="72" selection-start-column="84" selection-end-line="72" selection-end-column="84" />
           <folding>
+            <element signature="imports" expanded="false" />
             <element signature="e#886#887#0" expanded="false" />
             <element signature="e#920#921#0" expanded="false" />
           </folding>
@@ -3252,7 +3238,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#953#954#0" expanded="false" />
+            <element signature="e#1001#1002#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3261,7 +3248,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1160#1161#0" expanded="false" />
+            <element signature="e#1218#1219#0" expanded="false" />
+            <element signature="e#1401#1402#0" expanded="false" />
+            <element signature="e#1455#1456#0" expanded="false" />
+            <element signature="e#1647#1648#0" expanded="false" />
+            <element signature="e#1697#1698#0" expanded="false" />
+            <element signature="e#2748#2749#0" expanded="false" />
+            <element signature="e#2801#2802#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3269,13 +3266,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#906#907#0" expanded="false" />
-            <element signature="e#941#942#0" expanded="false" />
-            <element signature="e#1008#1009#0" expanded="false" />
-            <element signature="e#1047#1048#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3295,18 +3286,25 @@
           <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4109#4124#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/ui/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35695538">
-          <caret line="119" column="22" selection-start-line="119" selection-start-column="22" selection-end-line="119" selection-end-column="22" />
+        <state vertical-scroll-proportion="-2.4482758">
+          <caret line="177" column="13" selection-start-line="177" selection-start-column="13" selection-end-line="177" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kangladevelopers/appmodule1/fragment/HomeFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12164579">
+          <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+          <folding />
         </state>
       </provider>
     </entry>

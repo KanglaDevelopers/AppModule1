@@ -2,130 +2,130 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\HUIDROM\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
-        <dex dex="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-787f6a96f05dea9f5e80d5d1f2770ed29276db7f.jar" />
-    </item>
-    <item
-        jar="C:\Users\HUIDROM\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
-        <dex dex="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-0dfeacc35cd5cafb37dcb53d59028a68cdc81cd3.jar" />
-    </item>
-    <item
-        jar="C:\Users\HUIDROM\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.20.0\2408070b2abec043624d35b35e30450f1b663858\google-http-client-jackson2-1.20.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="2408070b2abec043624d35b35e30450f1b663858">
-        <dex dex="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.20.0-b21577a9d5af46192d40e3496f272e80fa0779e8.jar" />
-    </item>
-    <item
-        jar="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\exploded-aar\com.soundcloud.android\android-crop\1.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="11a65cf2b30c192b38a881d626fa771a78a2293d">
-        <dex dex="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\classes-7be131c334ffd85e777af88cfa81c8df7a188136.jar" />
-    </item>
-    <item
-        jar="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\classes-d283686dc1167e22da00e3d55b2202abfb031784.jar" />
-    </item>
-    <item
-        jar="C:\Users\HUIDROM\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\library-2.4.0-2b89e5b92c36006fe75b071417c0b7a77f5ca843.jar" />
-    </item>
-    <item
-        jar="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\exploded-aar\com.sothree.slidinguppanel\library\3.2.0\jars\classes.jar"
+        jar="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\exploded-aar\com.sothree.slidinguppanel\library\3.2.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="6ca08eae09a2083fd5b430ce2a1faf86721a46bf">
-        <dex dex="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\classes-df260707b9b6148771502bfb10ae5b5c1502852c.jar" />
+        <dex dex="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\classes-fcf8f1518606d35eb80c7b2bc936bd8c3d22ab61.jar" />
     </item>
     <item
-        jar="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-af8cc4183f62bc0452f2ef6b53e8fb0201a2c201.jar" />
-    </item>
-    <item
-        jar="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
-        <dex dex="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\classes-c5b0cd687b5b075b7bfbe566ec801755ce0665d6.jar" />
-    </item>
-    <item
-        jar="C:\Users\HUIDROM\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jar="C:\Users\DELL PC\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
-        <dex dex="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\guava-jdk5-13.0-3c7dac0adf57a343a1f1d2bf7c9d1f6df6ae288f.jar" />
+        <dex dex="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\guava-jdk5-13.0-6f86454ba622b6b18b6f041f3da33baf24481ce2.jar" />
     </item>
     <item
-        jar="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
-        <dex dex="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\classes-3ebb1ea8c786d04d148191468bd65167cb570208.jar" />
-    </item>
-    <item
-        jar="C:\Users\HUIDROM\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.20.0\93d82db2bca534960253f43424b2ba9d7638b4d2\google-http-client-1.20.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
-        <dex dex="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\google-http-client-1.20.0-ba88a9ad66cd69c530eae57f69998bb00e55f95a.jar" />
-    </item>
-    <item
-        jar="C:\Users\HUIDROM\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.20.0\1d086ac5756475ddf451af2e2df6e288d18608ca\google-oauth-client-1.20.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
-        <dex dex="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.20.0-21e0dda57b090e4450225eb0dfe4e8a3890417d1.jar" />
-    </item>
-    <item
-        jar="C:\Users\HUIDROM\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-coordinate\v1-rev53-1.20.0\8412836680b5d14620e6b62721d1256f1d93cff\google-api-services-coordinate-v1-rev53-1.20.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="08412836680b5d14620e6b62721d1256f1d93cff">
-        <dex dex="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\google-api-services-coordinate-v1-rev53-1.20.0-e4dbf199febefc557d99dbef2d579ba31d78f4f6.jar" />
-    </item>
-    <item
-        jar="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
-        <dex dex="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\classes-1a9e6b676672ca98d97724dc58a40b224a8f5fcf.jar" />
-    </item>
-    <item
-        jar="E:\Wealth\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-98a585d4353c52002682cb58100ee6c7fa2e58ce.jar" />
+        <dex dex="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-24c46cbde714be0842274322039416f341dd73a0.jar" />
     </item>
     <item
-        jar="C:\Users\HUIDROM\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.20.0\d3e66209ae9e749b2d6833761e7885f60f285564\google-api-client-1.20.0.jar"
+        jar="C:\Users\DELL PC\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
-        <dex dex="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\google-api-client-1.20.0-70e90fa59fc2669bb87f80e1c8736458a77a00b2.jar" />
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\library-2.4.0-7f2ccd74c44dd4ec5a77be358e2de2fa0c1de761.jar" />
     </item>
     <item
-        jar="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jar="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\exploded-aar\com.soundcloud.android\android-crop\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="11a65cf2b30c192b38a881d626fa771a78a2293d">
+        <dex dex="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\classes-83f8d61a64a16eeee9f831a9e01b57a888eab2b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\classes-dd0c4668146845a561e9149ffbdaae94ef457907.jar" />
+    </item>
+    <item
+        jar="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\classes-e5ea2a473f5893ab1593b4d6f26ae155332f20e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\DELL PC\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-coordinate\v1-rev53-1.20.0\8412836680b5d14620e6b62721d1256f1d93cff\google-api-services-coordinate-v1-rev53-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08412836680b5d14620e6b62721d1256f1d93cff">
+        <dex dex="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\google-api-services-coordinate-v1-rev53-1.20.0-fe7f891745839f21d0b74af34e729362a432d44c.jar" />
+    </item>
+    <item
+        jar="C:\Users\DELL PC\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-55a49712f965ab4b7012a1f322b24b607092ca4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="G:\ANDROID_WORKSPACE\AppModule2\app\build\intermediates\pre-dexed\debug\classes-d88793db86ff2507b00108a2cced629bb7b0dfe6.jar" />
+        <dex dex="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\classes-47f3ae33a1034f41577a8d4b0b981997250673ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\DELL PC\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.20.0\2408070b2abec043624d35b35e30450f1b663858\google-http-client-jackson2-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.20.0-4dcc336e5b14f6317b0c743127d2b6acd049899e.jar" />
+    </item>
+    <item
+        jar="C:\Users\DELL PC\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.20.0\1d086ac5756475ddf451af2e2df6e288d18608ca\google-oauth-client-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.20.0-7106f417c48c0a185dc4e20fb89844d01645b91f.jar" />
+    </item>
+    <item
+        jar="C:\Users\DELL PC\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.20.0\d3e66209ae9e749b2d6833761e7885f60f285564\google-api-client-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\google-api-client-1.20.0-c364148a66c9ebff5bad049d1cbf0eb6ef943425.jar" />
+    </item>
+    <item
+        jar="C:\Users\DELL PC\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.20.0\93d82db2bca534960253f43424b2ba9d7638b4d2\google-http-client-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\google-http-client-1.20.0-3af0abc673655a75bee8b2e3df98ce6933ccaf78.jar" />
+    </item>
+    <item
+        jar="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\classes-7a213296c41c47360fd2be39ce6f5a4c59752eb0.jar" />
+    </item>
+    <item
+        jar="C:\Users\DELL PC\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-7db3910aeb82c850d7d2ad98ebb29385a7cd6ff9.jar" />
+    </item>
+    <item
+        jar="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\classes-fddd4326e777e402745a5d92364dc58919da178f.jar" />
+    </item>
+    <item
+        jar="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\DELL PC\AndroidStudioProjects\AppModule1\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-fa54d7129ec3279c74b5cf93046d21f68e35aab5.jar" />
     </item>
 
 </items>

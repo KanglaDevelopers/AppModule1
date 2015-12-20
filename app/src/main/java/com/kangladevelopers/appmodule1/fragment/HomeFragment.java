@@ -16,7 +16,7 @@ import com.sothree.slidinguppanel.SlidingUpPanelLayout;
 
 public class HomeFragment extends Fragment implements View.OnClickListener {
 
-
+// home fragment
     private SlidingUpPanelLayout slidingUpPanelLayout;
     private Button buttonShow;
     private Button buttonHide;
